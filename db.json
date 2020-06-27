@@ -1,0 +1,13 @@
+{
+    "data": [
+        { "value": "18650HB2", "label": "18650HB2" },
+        { "value": "18651HB2", "label": "18651HB2" },
+        { "value": "18652HB2", "label": "18652HB2" },
+        { "value": "18653HB2", "label": "18653HB2" },
+        { "value": "18654HB2", "label": "18654HB2" },
+        { "value": "18655HB2", "label": "18655HB2" },
+        { "value": "18656HB2", "label": "18656HB2" },
+        { "value": "18657HB2", "label": "18657HB2" }
+    ],
+    "defaults": ["value", "label", false]
+}
